@@ -1,0 +1,34 @@
+\\svprwy001\Alunos\c# fundamentos daniel\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.Data\bin\Debug\Database\Cs20483Database.mdf
+\\svprwy001\Alunos\c# fundamentos daniel\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.Data\bin\Debug\Database\Cs20483Database_log.ldf
+\\svprwy001\Alunos\c# fundamentos daniel\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.Data\bin\Debug\Cs20483_Exercicio.Data.dll.config
+\\svprwy001\Alunos\c# fundamentos daniel\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.Data\bin\Debug\Cs20483_Exercicio.Data.dll
+\\svprwy001\Alunos\c# fundamentos daniel\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.Data\bin\Debug\Cs20483_Exercicio.Data.pdb
+\\svprwy001\Alunos\c# fundamentos daniel\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.Data\bin\Debug\Cs20483_Exercicio.Domain.dll
+\\svprwy001\Alunos\c# fundamentos daniel\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.Data\bin\Debug\EntityFramework.dll
+\\svprwy001\Alunos\c# fundamentos daniel\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.Data\bin\Debug\EntityFramework.SqlServer.dll
+\\svprwy001\Alunos\c# fundamentos daniel\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.Data\bin\Debug\Cs20483_Exercicio.Domain.pdb
+\\svprwy001\Alunos\c# fundamentos daniel\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.Data\bin\Debug\EntityFramework.xml
+\\svprwy001\Alunos\c# fundamentos daniel\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.Data\bin\Debug\EntityFramework.SqlServer.xml
+\\svprwy001\Alunos\c# fundamentos daniel\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.Data\obj\Debug\Cs20483_Exercicio.Data.csprojAssemblyReference.cache
+\\svprwy001\Alunos\c# fundamentos daniel\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.Data\obj\Debug\Cs20483_Exercicio.Data.csproj.CopyComplete
+\\svprwy001\Alunos\c# fundamentos daniel\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.Data\obj\Debug\Cs20483_Exercicio.Data.dll
+\\svprwy001\Alunos\c# fundamentos daniel\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.Data\obj\Debug\Cs20483_Exercicio.Data.pdb
+C:\Users\67375\Documents\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.Data\bin\Debug\Database\Cs20483Database.mdf
+C:\Users\67375\Documents\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.Data\bin\Debug\Database\Cs20483Database_log.ldf
+C:\Users\67375\Documents\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.Data\bin\Debug\Cs20483_Exercicio.Data.dll.config
+C:\Users\67375\Documents\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.Data\bin\Debug\Cs20483_Exercicio.Data.dll
+C:\Users\67375\Documents\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.Data\bin\Debug\Cs20483_Exercicio.Data.pdb
+C:\Users\67375\Documents\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.Data\bin\Debug\Cs20483_Exercicio.Domain.dll
+C:\Users\67375\Documents\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.Data\bin\Debug\EntityFramework.dll
+C:\Users\67375\Documents\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\67375\Documents\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.Data\bin\Debug\Cs20483_Exercicio.Domain.pdb
+C:\Users\67375\Documents\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.Data\bin\Debug\EntityFramework.xml
+C:\Users\67375\Documents\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\67375\Documents\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.Data\obj\Debug\Cs20483_Exercicio.Data.csprojAssemblyReference.cache
+C:\Users\67375\Documents\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.Data\obj\Debug\Cs20483_Exercicio.Data.csproj.CopyComplete
+C:\Users\67375\Documents\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.Data\obj\Debug\Cs20483_Exercicio.Data.dll
+C:\Users\67375\Documents\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.Data\obj\Debug\Cs20483_Exercicio.Data.pdb
+C:\Users\67375\Documents\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.Data\obj\Debug\Cs20483_Exercicio.Data.Migrations.CreateTableProduto.resources
+C:\Users\67375\Documents\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.Data\obj\Debug\Cs20483_Exercicio.Data.csproj.GenerateResource.cache
+C:\Users\67375\Documents\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.Data\obj\Debug\Cs20483_Exercicio.Data.Migrations.CreateTableEstoque.resources
+C:\Users\67375\Documents\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.Data\obj\Debug\Cs20483_Exercicio.Data.Migrations.CreateTablesPessoas.resources

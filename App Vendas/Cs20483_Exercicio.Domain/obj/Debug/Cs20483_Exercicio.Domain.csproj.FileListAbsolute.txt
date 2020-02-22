@@ -1,0 +1,4 @@
+\\svprwy001\Alunos\c# fundamentos daniel\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.Domain\bin\Debug\Cs20483_Exercicio.Domain.dll
+\\svprwy001\Alunos\c# fundamentos daniel\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.Domain\bin\Debug\Cs20483_Exercicio.Domain.pdb
+\\svprwy001\Alunos\c# fundamentos daniel\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.Domain\obj\Debug\Cs20483_Exercicio.Domain.dll
+\\svprwy001\Alunos\c# fundamentos daniel\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.Domain\obj\Debug\Cs20483_Exercicio.Domain.pdb

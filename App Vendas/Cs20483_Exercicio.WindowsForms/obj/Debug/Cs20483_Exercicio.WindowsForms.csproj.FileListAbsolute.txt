@@ -1,0 +1,8 @@
+\\svprwy001\Alunos\c# fundamentos daniel\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.WindowsForms\bin\Debug\Cs20483_Exercicio.WindowsForms.exe.config
+\\svprwy001\Alunos\c# fundamentos daniel\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.WindowsForms\bin\Debug\Cs20483_Exercicio.WindowsForms.exe
+\\svprwy001\Alunos\c# fundamentos daniel\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.WindowsForms\bin\Debug\Cs20483_Exercicio.WindowsForms.pdb
+\\svprwy001\Alunos\c# fundamentos daniel\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.WindowsForms\obj\Debug\Cs20483_Exercicio.WindowsForms.csprojAssemblyReference.cache
+\\svprwy001\Alunos\c# fundamentos daniel\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.WindowsForms\obj\Debug\Cs20483_Exercicio.WindowsForms.Properties.Resources.resources
+\\svprwy001\Alunos\c# fundamentos daniel\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.WindowsForms\obj\Debug\Cs20483_Exercicio.WindowsForms.csproj.GenerateResource.cache
+\\svprwy001\Alunos\c# fundamentos daniel\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.WindowsForms\obj\Debug\Cs20483_Exercicio.WindowsForms.exe
+\\svprwy001\Alunos\c# fundamentos daniel\Cs20483-master\Cs20483_Exercicio\Cs20483_Exercicio.WindowsForms\obj\Debug\Cs20483_Exercicio.WindowsForms.pdb
