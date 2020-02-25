@@ -29,7 +29,8 @@ namespace Cs20483_Exercicio.Data.Repository
             {
                 model = context.Set<T>().Find(id);
                 //Filtro por id usando Lambda
-                //model = context.Produto.Where(p=>p.Id == id).FirstOrDefault();
+                //model = context.Produto.Where(p=>p.Id == id).FirstOrDefault();       
+                //teste
             }
             return model;
         }
